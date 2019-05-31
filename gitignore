@@ -1,8 +1,0 @@
-.env
-.idea/
-.nyc_output/
-.vscode/
-vendor/
-node_modules/
-coverage/
-storage/
