@@ -1,5 +1,3 @@
-.PHONY: build install start stop shell update
-
 build:
 	docker-compose build
 
